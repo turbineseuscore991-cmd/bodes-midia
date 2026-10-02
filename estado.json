@@ -1,0 +1,25 @@
+{
+  "cliente": "Bodes Amantes de Charutos",
+  "chave": "bodes",
+  "arroba": "@bodescharutos",
+  "atualizado": "2026-10-01 22:06",
+  "publicados": 6,
+  "fila": 37,
+  "adiante": 37,
+  "aprovados": 37,
+  "proximo": {
+    "id": "B22",
+    "quando": "2026-10-02 17:00",
+    "tipo": "foto",
+    "aprovado": true,
+    "futuro": true
+  },
+  "atrasados": [],
+  "problemas": [],
+  "meta": {
+    "ok": true,
+    "username": "bodescharutos",
+    "seguidores": 84,
+    "posts_no_ar": 7
+  }
+}
