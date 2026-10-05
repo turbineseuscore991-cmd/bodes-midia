@@ -2,7 +2,7 @@
   "cliente": "Bodes Amantes de Charutos",
   "chave": "bodes",
   "arroba": "@bodescharutos",
-  "atualizado": "2026-10-04 22:47",
+  "atualizado": "2026-10-05 15:18",
   "publicados": 6,
   "fila": 37,
   "adiante": 34,
@@ -22,17 +22,17 @@
   "problemas": [
     {
       "post": "B22#perdeu",
-      "vezes": 11,
+      "vezes": 12,
       "erro": "janela fechada"
     },
     {
       "post": "B21#perdeu",
-      "vezes": 7,
+      "vezes": 8,
       "erro": "janela fechada"
     },
     {
       "post": "B17#perdeu",
-      "vezes": 2,
+      "vezes": 3,
       "erro": "janela fechada"
     }
   ],
