@@ -2,14 +2,14 @@
   "cliente": "Bodes Amantes de Charutos",
   "chave": "bodes",
   "arroba": "@bodescharutos",
-  "atualizado": "2026-11-04 15:10",
-  "publicados": 36,
-  "fila": 7,
-  "adiante": 7,
-  "aprovados": 7,
+  "atualizado": "2026-11-04 17:23",
+  "publicados": 37,
+  "fila": 6,
+  "adiante": 6,
+  "aprovados": 6,
   "proximo": {
-    "id": "B09",
-    "quando": "2026-11-04 17:00",
+    "id": "B10",
+    "quando": "2026-11-05 17:00",
     "tipo": "foto",
     "aprovado": true,
     "futuro": true
@@ -20,6 +20,6 @@
     "ok": true,
     "username": "bodescharutos",
     "seguidores": 70,
-    "posts_no_ar": 36
+    "posts_no_ar": 37
   }
 }
